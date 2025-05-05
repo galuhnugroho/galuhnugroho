@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel&theme=dark)](https://skillicons.dev)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galuhnugroho) -->
+
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -39,3 +41,11 @@ Here are some ideas to get you started:
 <!-- ##### MY GITHUB STATS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galuhnugroho&hide=contribs,prs,issues,stars&show_icons=true&theme=apprentice) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galuhnugroho/galuhnugroho/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galuhnugroho/galuhnugroho/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/galuhnugroho/galuhnugroho/output/pacman-contribution-graph.svg">
+</picture>
+
+###
