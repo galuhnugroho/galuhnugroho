@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](img/github-header-1.png)
+<!-- ![Header](img/github-header-1.png) -->
 
-## Hello World
+![👋 Hi, my name is Galuh](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-- 🌱 I’m currently learning **Laravel** Framework
+![Profile views](https://komarev.com/ghpvc/?username=galuhnugroho&label=Profile%20views&color=0e75b6&style=flat)
+
+## <center> HELLO WORLD, MY NAME IS GALUH 👋 </center>
+
+<center>🌱 I’m currently learning <strong>Laravel</strong> Framework</center>
 
 ##### 💻SKILLS
 
