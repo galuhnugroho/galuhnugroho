@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ##### 💻SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel&theme=dark,python)](https://skillicons.dev)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galuhnugroho) -->
 
