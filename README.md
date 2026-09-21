@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## <center> HELLO WORLD, MY NAME IS GALUH 👋 </center>
 
-<center>🌱 I’m currently learning <strong>Laravel</strong> Framework</center>
+<center>🌱 I’m currently learning <strong>Python</strong></center>
 
 ##### 💻SKILLS
 
